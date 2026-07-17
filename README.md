@@ -4,7 +4,7 @@
 
 **Skills demonstrated:** Time series analysis · SARIMA modeling · Box-Cox transformation · Maximum likelihood estimation · Model diagnostics (Shapiro-Wilk, Box-Pierce, Ljung-Box, McLeod-Li) · Forecasting · R (`forecast`, `tsdl`, `stats`)
 
-📄 [View the R Markdown source](./Forecasting-Ontario-Gasoline-Demand.Rmd)
+[View the R Markdown source](./Forecasting-Ontario-Gasoline-Demand.Rmd)
 
 ---
 
